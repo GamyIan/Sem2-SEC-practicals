@@ -1,0 +1,21 @@
+empid,empfirstname,emplastname,sal,dateofbirth,city,deptid,deptname
+101,John,Doe,75000,15-05-1990,New York,101,Engineering
+102,Jane,Smith,65000,23-08-1988,San Francisco,102,Marketing
+103,Michael,Johnson,80000,10-02-1985,Chicago,101,Engineering
+104,Emily,Williams,70000,30-11-1992,Los Angeles,103,Human Resources
+105,Robert,Miller,90000,18-07-1980,Seattle,102,Marketing
+106,Alice,Jackson,72000,05-04-1995,Miami,104,Finance
+107,David,Anderson,85000,12-09-1987,Dallas,101,Engineering
+108,Olivia,Thomas,78000,08-12-1991,Houston,103,Human Resources
+109,William,Brown,95000,25-06-1982,Phoenix,102,Marketing
+110,Sophia,White,68000,14-08-1993,Atlanta,104,Finance
+111,James,Clark,89000,22-03-1984,Denver,101,Engineering
+112,Emma,Hall,82000,17-01-1994,Portland,103,Human Resources
+113,Christopher,Young,76000,03-07-1989,San Diego,102,Marketing
+114,Isabella,Hill,91000,20-04-1983,Orlando,101,Engineering
+115,Aiden,Ward,69000,15-11-1996,Tampa,104,Finance
+116,Abigail,Turner,80000,28-02-1986,Austin,103,Human Resources
+117,Liam,Carter,74000,05-09-1997,Minneapolis,102,Marketing
+118,Ella,Ross,92000,10-05-1981,Charlotte,101,Engineering
+119,Jackson,Martin,67000,18-03-1998,Raleigh,104,Finance
+120,Sofia,Cooper,88000,01-12-1988,Sacramento,103,Human Resources
