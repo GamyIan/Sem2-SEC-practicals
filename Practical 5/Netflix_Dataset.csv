@@ -1,0 +1,41 @@
+show_id,type,title,director,cast,country,release_year,rating,duration,genre
+s1,Movie,Dangal,Nitesh Tiwari,"Aamir Khan, Fatima Sana Shaikh",India,2016,UA,161 min,Drama
+s2,TV Show,Sacred Games,Anurag Kashyap,"Saif Ali Khan, Nawazuddin Siddiqui",India,2018,UA,2 Seasons,Crime
+s3,Movie,3 Idiots,Rajkumar Hirani,"Aamir Khan, R. Madhavan",India,2009,UA,170 min,Comedy
+s4,Movie,Lagaan,Ashutosh Gowariker,"Aamir Khan, Gracy Singh",India,2001,UA,224 min,Historical
+s5,TV Show,Delhi Crime,Richie Mehta,"Shefali Shah, Rasika Dugal",India,2019,UA,1 Season,Crime
+s6,Movie,Article 15,Anubhav Sinha,"Ayushmann Khurrana, Isha Talwar",India,2019,UA,130 min,Social
+s7,TV Show,Kota Factory,Raghav Subbu,"Mayur More, Jitendra Kumar",India,2019,UA,2 Seasons,Drama
+s8,Movie,Taare Zameen Par,Amole Gupte,"Darsheel Safary, Aamir Khan",India,2007,UA,165 min,Family
+s9,Movie,Gully Boy,Zoya Akhtar,"Ranveer Singh, Alia Bhatt",India,2019,UA,154 min,Musical
+s10,TV Show,Family Man,Raj & DK,"Manoj Bajpayee, Priyamani",India,2019,UA,2 Seasons,Thriller
+s11,Movie,Kabir Singh,Sandeep Reddy Vanga,"Shahid Kapoor, Kiara Advani",India,2019,UA,172 min,Romance
+s12,Movie,Andhadhun,Sriram Raghavan,"Ayushmann Khurrana, Tabu",India,2018,UA,139 min,Thriller
+s13,Movie,Pink,Aniruddha Roy Chowdhury,"Amitabh Bachchan, Taapsee Pannu",India,2016,UA,136 min,Drama
+s14,Movie,Queen,Vikas Bahl,"Kangana Ranaut, Rajkummar Rao",India,2014,UA,146 min,Comedy
+s15,Movie,PK,Rajkumar Hirani,"Aamir Khan, Anushka Sharma",India,2014,UA,153 min,Comedy
+s16,Movie,Bajrangi Bhaijaan,Kabir Khan,"Salman Khan, Harshaali Malhotra",India,2015,UA,159 min,Drama
+s17,Movie,Drishyam,Nishikant Kamat,"Ajay Devgn, Tabu",India,2015,UA,163 min,Thriller
+s18,Movie,Stree,Amar Kaushik,"Rajkummar Rao, Shraddha Kapoor",India,2018,UA,128 min,Horror
+s19,Movie,Chhichhore,Nitesh Tiwari,"Sushant Singh Rajput, Shraddha Kapoor",India,2019,UA,143 min,Drama
+s20,Movie,Super 30,Vikas Bahl,"Hrithik Roshan, Mrunal Thakur",India,2019,UA,154 min,Drama
+s21,Movie,Barfi,Anurag Basu,"Ranbir Kapoor, Priyanka Chopra",India,2012,UA,151 min,Comedy
+s22,Movie,Piku,Shoojit Sircar,"Amitabh Bachchan, Deepika Padukone",India,2015,UA,152 min,Drama
+s23,Movie,Padman,R. Balki,"Akshay Kumar, Sonam Kapoor",India,2018,UA,140 min,Drama
+s24,Movie,Badhaai Ho,Amit Sharma,"Ayushmann Khurrana, Neena Gupta",India,2018,UA,125 min,Comedy
+s25,Movie,Mission Mangal,Jagan Shakti,"Akshay Kumar, Vidya Balan",India,2019,UA,130 min,Drama
+s26,Movie,Raazi,Meghna Gulzar,"Alia Bhatt, Vicky Kaushal",India,2018,UA,138 min,Thriller
+s27,Movie,Uri,Aditya Dhar,"Vicky Kaushal, Yami Gautam",India,2019,UA,132 min,Thriller
+s28,Movie,Kahaani,Sujoy Ghosh,"Vidya Balan, Parambrata Chatterjee",India,2012,UA,129 min,Thriller
+s29,Movie,Special 26,Neeraj Pandey,"Akshay Kumar, Kajal Aggarwal",India,2013,UA,126 min,Thriller
+s30,Movie,Baby,Neeraj Pandey,"Akshay Kumar, Taapsee Pannu",India,2015,UA,155 min,Thriller
+s31,Movie,Rockstar,Imtiaz Ali,"Ranbir Kapoor, Nargis Fakhri",India,2011,UA,153 min,Drama
+s32,Movie,Dear Zindagi,Gauri Shinde,"Alia Bhatt, Shah Rukh Khan",India,2016,UA,150 min,Drama
+s33,Movie,Haider,Vishal Bhardwaj,"Shahid Kapoor, Tabu",India,2014,UA,162 min,Thriller
+s34,Movie,Bajirao Mastani,Sanjay Leela Bhansali,"Ranveer Singh, Deepika Padukone",India,2015,UA,158 min,Historical
+s35,Movie,Sanju,Rajkumar Hirani,"Ranbir Kapoor, Paresh Rawal",India,2018,UA,161 min,Drama
+s36,Movie,M.S. Dhoni,Neeraj Pandey,"Sushant Singh Rajput, Kiara Advani",India,2016,UA,140 min,Drama
+s37,Movie,Sultan,Ali Abbas Zafar,"Salman Khan, Anushka Sharma",India,2016,UA,135 min,Drama
+s38,Movie,Highway,Imtiaz Ali,"Alia Bhatt, Randeep Hooda",India,2014,UA,153 min,Drama
+s39,Movie,Kesari,Anurag Singh,"Akshay Kumar, Parineeti Chopra",India,2019,UA,150 min,Historical
+s40,Movie,Andaz Apna Apna,Rajkumar Santoshi,"Aamir Khan, Salman Khan",India,1994,UA,160 min,Comedy
